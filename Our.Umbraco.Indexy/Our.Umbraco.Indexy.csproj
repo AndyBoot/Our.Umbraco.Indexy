@@ -2,11 +2,11 @@
 
 	<PropertyGroup>
 		<PackageId>Our.Umbraco.Indexy</PackageId>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<Authors>Andy Boot</Authors>
 		<Description>Indexy allows a developer to effortlessly create custom Examine indexes within Umbraco by simply adding a few options to the website `appsettings.json` file. </Description>
-		<PackageProjectUrl>https://github.com/AndyBoot/Our-Umbraco-Indexy</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/AndyBoot/Our-Umbraco-Indexy</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/AndyBoot/Our.Umbraco.Indexy</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/AndyBoot/Our.Umbraco.Indexy</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageIcon>PackageLogo.png</PackageIcon>
 		<PackageTags>Umbraco;Indexy;Index;Indexer;Examine;Search;UmbracoCMS;umbraco-marketplace</PackageTags>
