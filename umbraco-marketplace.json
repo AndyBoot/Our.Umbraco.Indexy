@@ -1,8 +1,50 @@
 {
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "AuthorDetails": {
+    "Name": "Andy Boot",
+    "Description": "Andy is a senior web developer with over 10 years of .Net development experience focusing mainly on CMS platforms such as Umbraco & Kentico.",
+    "Url": "https://github.com/AndyBoot",
+    "ImageUrl": "https://avatars.githubusercontent.com/u/82056925",
+    "SyncContributorsFromRepository": "true"
+  },
   "Category": "Search",
+  "Description": "Indexy allows a developer to effortlessly create custom Examine indexes within Umbraco by simply adding a few options to the website appsettings.json file.",
+  "DocumentationUrl": "https://github.com/AndyBoot/Our.Umbraco.Indexy",
   "LicenseTypes": [ "Free" ],
+  "IssueTrackerUrl": "https://github.com/AndyBoot/Our.Umbraco.Indexy/issues",
   "PackageType": "Package",
+  "Screenshots": [
+    {
+      "ImageUrl": "https://github.com/AndyBoot/Our.Umbraco.Indexy/blob/main/Screenshots/1.png",
+      "Caption": "Basic example of how to create a custom index named BlogIndex with only authorName & articleDate of the article document type."
+    },
+    {
+      "ImageUrl": "https://github.com/AndyBoot/Our.Umbraco.Indexy/blob/main/Screenshots/2.png",
+      "Caption": "Custom index is automatically added to the Examine Management section of the backoffice."
+    },
+    {
+      "ImageUrl": "https://github.com/AndyBoot/Our.Umbraco.Indexy/blob/main/Screenshots/3.png",
+      "Caption": "It works! (part 1)"
+    },
+    {
+      "ImageUrl": "https://github.com/AndyBoot/Our.Umbraco.Indexy/blob/main/Screenshots/4.png",
+      "Caption": "It works! (part 2)"
+    }
+  ],
   "Tags": [
-    "examine"
+    "examine",
+    "index",
+    "indexy",
+    "search",
+    "andyboot",
+    "hacktoberfest",
+    "hacktoberfest2022"
+  ],
+  "Title": "Our.Umbraco.Indexy",
+  "VersionSpecificPackageIds": [
+    {
+      "UmbracoMajorVersion": 10,
+      "PackageId": "Our.Umbraco.Indexy"
+    }
   ]
 }
