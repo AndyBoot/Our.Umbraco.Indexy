@@ -4,8 +4,8 @@
     "Name": "Andy Boot",
     "Description": "Andy is a senior web developer with over 10 years of .Net development experience focusing mainly on CMS platforms such as Umbraco & Kentico.",
     "Url": "https://github.com/AndyBoot",
-    "ImageUrl": "https://avatars.githubusercontent.com/u/82056925",
-    "SyncContributorsFromRepository": "true"
+    "ImageUrl": "https://andyboot.co.uk/avatar.jpg",
+    "SyncContributorsFromRepository": true
   },
   "Category": "Search",
   "Description": "Indexy allows a developer to effortlessly create custom Examine indexes within Umbraco by simply adding a few options to the website appsettings.json file.",
@@ -40,11 +40,5 @@
     "hacktoberfest",
     "hacktoberfest2022"
   ],
-  "Title": "Our.Umbraco.Indexy",
-  "VersionSpecificPackageIds": [
-    {
-      "UmbracoMajorVersion": 10,
-      "PackageId": "Our.Umbraco.Indexy"
-    }
-  ]
+  "Title": "Our.Umbraco.Indexy"
 }

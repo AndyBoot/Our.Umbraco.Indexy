@@ -2,7 +2,7 @@
 
 	<PropertyGroup>
 		<PackageId>Our.Umbraco.Indexy</PackageId>
-		<Version>1.0.2</Version>
+		<Version>1.0.2.1</Version>
 		<Authors>Andy Boot</Authors>
 		<Description>Indexy allows a developer to effortlessly create custom Examine indexes within Umbraco by simply adding a few options to the website `appsettings.json` file. </Description>
 		<PackageProjectUrl>https://github.com/AndyBoot/Our.Umbraco.Indexy</PackageProjectUrl>
